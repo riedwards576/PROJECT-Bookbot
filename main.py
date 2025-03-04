@@ -1,3 +1,5 @@
+#some minor change 
+
 def main():
     book_path = "bookbot/books/frankenstein.txt"
     text = get_book_text(book_path)
